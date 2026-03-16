@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Carla 👋
 
-<!--
-**carlaaaf12/carlaaaf12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance based in Nice, France — where the mountains meet the sea 🏔️
 
-Here are some ideas to get you started:
+I build web apps and digital experiences using AI-assisted development.
+Still learning, shipping fast, and having fun doing it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm building
+
+- **SkiMap** — a web app to explore ski resorts and generate custom trail itineraries
+- **AI Running & Trail Coach** — personalized training plans powered by AI
+- **Landing pages** for local businesses & sports associations
+
+---
+
+## 🛠️ What I work with
+
+TypeScript • React • Next.js • Firebase • Tailwind CSS • Claude AI •
+
+---
+
+## 🎯 A bit about me
+
+- 📍 Based in Nice, France
+- 🎓 Sport Business background (Master Business in Sport)
+- 🏂 Outdoor sports addict — trail, ski, snowboard, hiking
+- 🤖 Building with AI tools every day
+- ✈️ Always planning the next trip
+
+---
+
+> *"Always building, always shipping."*
